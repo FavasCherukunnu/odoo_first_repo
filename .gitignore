@@ -1,2 +1,4 @@
 /venv
 .vs
+odoo_pg_pass
+conf/odoo.conf
